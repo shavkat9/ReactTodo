@@ -1,0 +1,35 @@
+input {
+    width: 400px;
+    padding: 10px;
+  }
+  .App {
+    margin: 50px;
+    text-align: center;
+  }
+  ul {
+    list-style: none;
+  }
+  li {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .button {
+    width: 150px;
+    height: 40px;
+    background-color: dodgerblue;
+    color: #fff;
+    border-radius: 8px;
+    border: 2px solid dodgerblue;
+    font-size: 20px;
+
+  }
+  .delete {
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    color: #fff;
+    border:  2px solid red;
+    font-size: 18px;
+    border-radius: 8px;
+  }
